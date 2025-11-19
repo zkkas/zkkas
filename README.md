@@ -50,8 +50,5 @@
 
 # 📬 Contato
 
-🚫 Sem LinkedIn  
-🚫 Sem email público  
-
 📌 **Me encontre no GitHub:**  
 👉 **[@traxxx](https://github.com/traxxx)**
