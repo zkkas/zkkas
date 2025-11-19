@@ -1,34 +1,77 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Gabriel+👋&color=39FF14)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=39FF14&width=500&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Gabriel+%F0%9F%91%8B;Back-end+Developer;Python+%7C+Java+%7C+Go+%7C+C%23)](https://git.io/typing-svg)
 
-<p align="right">
-  <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" 
-       alt="gif" 
-       width="300">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" width="300">
 </p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
-</div>
-
----
-
-## 📊 GitHub Stats
+# 💻 **Back-end Skills**
 
 <div align="center">
-  <a href="https://github.com/traxxx">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=traxxx&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traxxx&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
 </div>
 
 ---
 
-## 📬 Contato  
-Pode me encontrar diretamente pelo GitHub: **@traxxx**
+# ⚙️ **Ferramentas & Ambiente**
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
+</div>
+
+---
+
+# 📦 **Projetos Destaque**
+
+### 🚀 *Em breve…*  
+Estou trabalhando em novos projetos usando Python, Go, C# e Java.  
+(Se quiser, coloco seus repositórios automaticamente aqui)
+
+---
+
+# 📊 **GitHub Stats**
+
+<div align="center">
+
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=traxxx&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=39FF14&title_color=39FF14)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traxxx&layout=compact&theme=chartreuse-dark&hide_border=true)
+
+</div>
+
+---
+
+# 🛰️ **Atividade Recente**
+
+<div align="center">
+
+![Snake animation](https://github.com/traxxx/traxxx/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 👁‍🗨 **Visitantes**
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=traxxx&color=39FF14&style=for-the-badge)
+
+</div>
+
+---
+
+# 📬 Contato
+
+🚫 Sem LinkedIn  
+🚫 Sem email público  
+
+📌 **Me encontre no GitHub:**  
+👉 **[@traxxx](https://github.com/traxxx)**
