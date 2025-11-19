@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
 </div>
 
+---
 
 # 📊 **GitHub Stats**
 
@@ -37,6 +38,7 @@
 
 </div>
 
+---
 
 # 👁‍🗨 **Visitantes**
 
