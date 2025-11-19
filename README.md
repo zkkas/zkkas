@@ -34,8 +34,6 @@
 
 ![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=traxxx&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=39FF14&title_color=39FF14)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traxxx&layout=compact&theme=chartreuse-dark&hide_border=true)
-
 </div>
 
 ---
