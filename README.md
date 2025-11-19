@@ -26,15 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
 </div>
 
----
-
-# 📦 **Projetos Destaque**
-
-### 🚀 *Em breve…*  
-Estou trabalhando em novos projetos usando Python, Go, C# e Java.  
-(Se quiser, coloco seus repositórios automaticamente aqui)
-
----
 
 # 📊 **GitHub Stats**
 
@@ -46,17 +37,6 @@ Estou trabalhando em novos projetos usando Python, Go, C# e Java.
 
 </div>
 
----
-
-# 🛰️ **Atividade Recente**
-
-<div align="center">
-
-![Snake animation](https://github.com/traxxx/traxxx/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # 👁‍🗨 **Visitantes**
 
