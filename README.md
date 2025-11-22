@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=39FF14&width=500&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Gabriel+%F0%9F%91%8B;Back-end+Developer;Python+%7C+Java+%7C+Go+%7C+C%23)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="300">
+  <img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="500">
 </p>
 
 ---
