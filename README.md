@@ -1,34 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=39FF14&width=500&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Gabriel+%F0%9F%91%8B;Back-end+Developer;Python+%7C+Java+%7C+Go+%7C+C%23)](https://git.io/typing-svg)
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="500">
-</p>
+<h3 align="center">Eu sou o Gabriel — Back-end Developer 🚀</h3>
 
 ---
 
-# 💻 **Back-end Skills**
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" title="C#"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=800&color=39FF14&width=500&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Gabriel+%F0%9F%91%8B;Back-end+Developer;Python+%7C+Java+%7C+Go+%7C+C%23)
+
 </div>
 
 ---
 
-# ⚙️ **Ferramentas & Ambiente**
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
 </div>
 
 ---
 
-# 📊 **GitHub Stats**
+## 🧰 Ferramentas & Ambiente
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+</div>
+
+---
+
+## 🌐 Frameworks & Extras
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+</div>
+
+---
+
+## 🔗 Contato & Redes
+
+<div align="center">
+  <a href="https://github.com/zkkas">
+    <img src="https://img.shields.io/badge/GitHub-traxxx-000?style=for-the-badge&logo=github"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -38,7 +80,21 @@
 
 ---
 
-# 👁‍🗨 **Visitantes**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=traxxx&theme=dracula" height="150" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 👁‍🗨 Visitantes
 
 <div align="center">
 
@@ -48,7 +104,6 @@
 
 ---
 
-# 📬 Contato
-
-📌 **Me encontre no GitHub:**  
-👉 **[@traxxx](https://github.com/zkkas)**
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="500">
+</p>
