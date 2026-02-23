@@ -8,6 +8,7 @@ I’m a back-end developer with experience building applications using JavaScrip
 ![](https://github-readme-stats.vercel.app/api?username=zkkas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zkkas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zkkas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zkkas&icon=0&color=0)](https://visitcount.itsvg.in)
