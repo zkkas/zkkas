@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Kas
+# Gabriel Marciano.
 
 **Back-end Developer · Software Engineering Student**
 
